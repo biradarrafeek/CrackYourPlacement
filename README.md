@@ -1,2 +1,2 @@
 # CrackYourPlacement
-45 Days Revise Challenge
+45 Days Challenge
